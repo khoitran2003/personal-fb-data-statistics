@@ -3,7 +3,7 @@
 Run it on Jupyter Notebook:
 
 <a>
-<img src="output/Jupyter_logo.svg.png" width=80>
+<img src="Jupyter_logo.svg.png" width=80>
 </a>
 
 Author:
@@ -32,25 +32,25 @@ data/
 
 ### 1. Number of friends added each months
 
-![image](output/7fb22451b053150d4c42.jpg)
+![image](7fb22451b053150d4c42.jpg)
 
 The 2 periods with the most friends connections are when creating an account and Q1 2022.
 
 ### 2. Comment and Like Frequency over the months
 
-![image](output/62562fcfbacd1f9346dc.jpg)
+![image](62562fcfbacd1f9346dc.jpg)
 
 The period of active activity on Facebook is the first half of the period from creation account to now
 
 ### 3. Comment and Like Frequency over the months
 
-![image](output/6a13b0fd25ff80a1d9ee.jpg)
+![image](6a13b0fd25ff80a1d9ee.jpg)
 
 The most messeger texting time period is from 2021-08 to 2022-08 
 
 ### 4. Top 50 Words Used in My Vietnamese Messages
 
-![image](output/37cecf1e5a1cff42a60d.jpg)
+![image](37cecf1e5a1cff42a60d.jpg)
 
 ```bash
 "t": tao, tớ,...
